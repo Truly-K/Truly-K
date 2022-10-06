@@ -2,8 +2,8 @@
 
 - 👀 I’m interested in new opportunities.
 
-- 🌱 I’m currently learning FULL STACK DEVELOPMENT through MIT xPRO, where we build, test, and deploy web applications, APIs, and front-end web applications. We work with many languages including:
-HTML, CSS, JavaScript, MongoDB, Express JS, React JS, Node JS.
+- 🌱 I’m currently learning FULL STACK DEVELOPMENT through MIT xPRO, where we build, test, and deploy web applications, APIs, and front-end web applications. I work with:
+HTML, CSS, JavaScript, C#, Selenium MongoDB, Express JS, React JS, Node JS.
 
 - 💞️ I’m looking to collaborate on a variety of projects to build my experience and portfolio.
 
